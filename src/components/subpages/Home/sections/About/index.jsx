@@ -27,7 +27,7 @@ const About = () => {
                   <span className="font-semibold ">Web Developer </span>
                   with a strong passion for crafting exceptional digital
                   experiences. With{' '}
-                  <span className="text-xl  text-secondary">2.5+</span> years of
+                  <span className="text-xl  text-secondary">1.5+</span> years of
                   experience in application development, I thrive on turning
                   ideas into reality through clean code and innovative design.
                   My journey in web development began with a fascination for the
