@@ -533,7 +533,7 @@ export const technologies = [
 export const services = [
   {
     icon: <FiLayout />,
-    name: 'Front-end Development',
+    name: 'Full-Stack Development',
     description:
       'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio perferendis volm quibusdam ullam qui dolore.',
   },
@@ -594,7 +594,7 @@ export const contact = [
     icon: <IoLocationOutline />,
     title: 'Current Location',
     subtitle: 'Dhaka, Bangladesh',
-    description: 'Front-end Developer',
+    description: 'Full-Stack Developer',
   },
 ];
 

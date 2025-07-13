@@ -24,7 +24,7 @@ const Hero = () => {
                 Passionate Full Stack Developer shaping immersive user
                 experiences, pioneering web technology
               </p>
-              <Link target="_blank" href={'https://drive.google.com/file/d/1-qUSfFfC6C_J07Ny-fNLkK_Z5gKo-kAZ/view?usp=sharing'}><Button text="Download Resume" /></Link>
+              <Link target="_blank" href={'https://drive.google.com/file/d/1qx6BDIKfQaWmpJJZiTWvoP5g6puezux3/view?usp=sharing'}><Button text="Download Resume" /></Link>
             </div>
             {/* gradient start */}
             <div className="absolute z-[0] w-[20%] h-[25%] top-0 pink__gradient" />

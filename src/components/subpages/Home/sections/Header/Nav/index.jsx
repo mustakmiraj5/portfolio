@@ -18,9 +18,9 @@ const Nav = () => {
                   activeclass="active"
                   spy={true}
                   smooth={true}
-                  duration={1100}
+                  duration={800}
                   offset={-70}
-                  className="transition-all duration-1000"
+                  className="transition-all duration-800"
                 >
                   {item.name}
                 </Link>
